@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nishant-uhh, a Data enthusiast.
-- 👀 I’m interested in Data analysis and Data visualisation.
-- 🌱 I’m currently learning Python, and Seaborn.
-- 💞️ I’m looking to collaborate on Data related jobs.
+- 👋 Hi, I’m Nishant.
+- 👀 I’m interested in Data related projects and web development as well.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on Data related and web development projects.
 - 📫 How to reach me - mail- badunishant@gmail.com
 
 <!---
